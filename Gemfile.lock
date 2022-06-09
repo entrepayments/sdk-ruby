@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    entrepayments (1.0.0)
+      bundler (~> 2.2.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  entrepayments!
+
+BUNDLED WITH
+   2.2.33
